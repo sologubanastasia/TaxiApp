@@ -1,0 +1,4 @@
+nammespace TaxiApp.Application.Interfaces
+{
+
+}

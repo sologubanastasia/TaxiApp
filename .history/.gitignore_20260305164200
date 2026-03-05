@@ -1,0 +1,13 @@
+[Bb]in/
+[Ob]j/
+
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+appsettings.json
+
+*.log
+.DS_Store
